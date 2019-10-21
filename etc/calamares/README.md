@@ -1,10 +1,10 @@
-# FBP OS Calamares Settings
+# Lubuntu's Calamares Settings
 
-This directory houses the Calamares settings for FBP OS.
+This directory houses the Calamares settings for Lubuntu.
 
 Unless otherwise stated, the contents of this directory are licensed as follows:
 
-Copyright (C) 2018 FBP
+Copyright (C) 2018 Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
