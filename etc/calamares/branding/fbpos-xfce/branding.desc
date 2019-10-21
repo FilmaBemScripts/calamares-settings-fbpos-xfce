@@ -1,0 +1,27 @@
+---
+componentName: fbpos-xfce
+
+strings:
+    productName:         FBP OS
+    shortProductName:    FBP OS
+    version:             19.12 LTS
+    shortVersion:        19.12
+    versionedName:       FBP OS
+    shortVersionedName:  FBP OS 19.12
+    bootloaderEntryName: FBP OS 19.12
+    productUrl:          https://fbpos.epizy.com
+    supportUrl:          https://fbpos.epizy.com
+    knownIssuesUrl:      https://fbpos.epizy.com
+    releaseNotesUrl:     https://fbpos.epizy.com
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#808080"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#0068C8"

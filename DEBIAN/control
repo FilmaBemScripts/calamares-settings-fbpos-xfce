@@ -1,0 +1,12 @@
+Package: calamares-settings-fbpos-xfce
+Source: calamares-settings-lubuntu
+Version: 1
+Architecture: all
+Maintainer: FBP
+Installed-Size: 1642
+Depends: calamares
+Suggests:
+Section: devel
+Priority: optional
+Homepage: https://fbpos.epizy.com
+Description: Ficheiros de configuração do Instalador do Sistema para mostrar o nome, versão e imagem do sistema no instalador
